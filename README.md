@@ -1,6 +1,6 @@
 # AWS CodePipeline for EC2 App
 
-![Architecture Study](Screenshots/Study.png)
+![Architecture Study](./Study.png)
 
 Static site for the 2079 Garage theme deployed to EC2 via CodePipeline + CodeDeploy.
 
